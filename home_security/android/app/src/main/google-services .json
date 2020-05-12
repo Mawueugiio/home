@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207049411176",
+    "firebase_url": "https://home-security-d47c4.firebaseio.com",
+    "project_id": "home-security-d47c4",
+    "storage_bucket": "home-security-d47c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207049411176:android:bedba0ff19d84cf66e09dd",
+        "android_client_info": {
+          "package_name": "com.area51.home_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207049411176-sks1p1ugj1hodkpsgtig48blgnu2h3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvtWznKQYI_AsSlCoUoc9BOTeMVdVOoCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207049411176-sks1p1ugj1hodkpsgtig48blgnu2h3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
